@@ -1,6 +1,9 @@
 # sdc-hw
 Hardware documentation for SolarDataCollector
 
+* Schematic
+[Schematic](SolarDataCollector.pdf "Schematic")
+
 * Front
 ![](imgs/IMG_8625.jpeg?raw=true "Front site")
 
